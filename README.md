@@ -85,7 +85,7 @@ Si tienes alguna pregunta o deseas contribuir al proyecto, puedes contactarnos a
 |------------|-----|--------|---------|
 | Camila Duran | Data Scientist | [GitHub](https://github.com/Camila20197) | [LinkedIn](https://www.linkedin.com/in/camila-ayelen-durand-6b9209221/) |
 | Nicolas Boniface | Data Analyst | [GitHub](https://github.com/Nicobonigit) | [LinkedIn](https://www.linkedin.com/in/nico-boniface-7052b7232/) |
-| Nathaly Gaibo | Data Analyst | [GitHub](https://github.com/NathalyGC) | [LinkedIn](https://www.linkedin.com/in/nico-boniface-7052b7232/) |
+| Nathaly Gaibor | Data Analyst | [GitHub](https://github.com/NathalyGC) | [LinkedIn](https://www.linkedin.com/in/nico-boniface-7052b7232/) |
 
 ---
 ¡Gracias por visitar este repositorio! 😊
